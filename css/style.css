@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: brown;
+}
+
+#logo{
+    background-color: rgba(21, 26, 21, 0.712);
+    color: white;
+}
+
+.parrafo-principal{
+    color: blue;
+}
+
+p.parrafo-principal{
+    color: aqua;
+    font-size: 20px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-weight: 400;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 30px;   
+
+}
+
+header p#logo{
+    font-weight: bold;
+}
